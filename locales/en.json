@@ -1,0 +1,10 @@
+{
+    "processing_request": "Processing your request...",
+    "downloading_video": "Downloading video...",
+    "converting_video": "Converting video...",
+    "video_converted": "Video converted!",
+    "video_sent_dm": "Video converted and sent to your DMs!",
+    "no_url_provided": "No URL provided.",
+    "no_video_found": "No video found in the referenced message.",
+    "error_occurred": "An error occurred: {error}"
+}
